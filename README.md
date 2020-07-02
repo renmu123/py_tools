@@ -8,3 +8,6 @@
 
 ## merge_pdf(input_file_list, output_file)
 合并pdf
+
+## count
+计算代码行数
